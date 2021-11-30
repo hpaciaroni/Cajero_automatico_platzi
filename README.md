@@ -1,1 +1,1 @@
-Tutorial de Platzi para simular un cajero automatico
+Tutorial de Platzi simulando un cajero automatico
