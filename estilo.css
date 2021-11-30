@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to top, green 0%, blue  100%  );
+    /* le doy un degrade al body con color, empieza desde abajo 0% hacia arriba 100% */
+}
+.cuerpo{
+    background-image: linear-gradient(to top, green 0%, blue  100%  );
+    /* le doy un degrade al body con color, empieza desde abajo 0% hacia arriba 100% */
+}
